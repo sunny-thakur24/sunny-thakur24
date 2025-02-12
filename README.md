@@ -1,3 +1,4 @@
+![logo](https://github.com/sunny-thakur24/sunny-thakur24/blob/main/github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Sunny</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
